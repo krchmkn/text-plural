@@ -1,0 +1,22 @@
+{
+  "name": "text-plural",
+  "version": "1.0.0",
+  "description": "plural text format",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/korchemkin/text-plural.git"
+  },
+  "keywords": [
+    "text-plural",
+    "plural",
+    "text",
+    "format"
+  ],
+  "author": "Dmitri Korchemkin (https://dmitrikorchemkin.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/korchemkin/text-plural/issues"
+  },
+  "homepage": "https://github.com/korchemkin/text-plural#readme"
+}
