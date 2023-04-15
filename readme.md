@@ -9,7 +9,7 @@ Plural text format
 
 ## Usage
 
-```
+```js
 var plural = require('text-plural');
  
 // Russian text
